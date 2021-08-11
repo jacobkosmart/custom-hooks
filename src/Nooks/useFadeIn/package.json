@@ -1,6 +1,6 @@
 {
   "name": "@jacob-hooks/use-fade-in",
-  "version": "1.0.6",
+  "version": "1.0.8",
   "description": "React Hook to fade in any element.",
   "main": "index.js",
   "repository": "https://github.com/jacobkosmart/custom-hooks.git",
