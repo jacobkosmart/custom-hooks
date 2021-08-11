@@ -1,12 +1,9 @@
 {
   "name": "@jacob-hooks/use-click",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "React Hook to execute a function when the mouse click then add event listener",
   "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/jacobkosmart/custom-hooks.git"
-  },
+  "repository": "https://github.com/jacobkosmart/custom-hooks.git",
   "keywords": [
     "react",
     "hooks",
