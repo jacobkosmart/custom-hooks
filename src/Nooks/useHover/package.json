@@ -1,6 +1,6 @@
 {
   "name": "@jacob-hooks/use-hover",
-  "version": "1.0.1",
+  "version": "1.0.9",
   "description": "React Hook to detect a hover on an any React Element",
   "main": "index.js",
   "repository": {
