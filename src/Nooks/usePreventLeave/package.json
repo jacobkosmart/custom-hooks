@@ -1,6 +1,6 @@
 {
   "name": "@jacob-hooks/use-prevent-leave",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "React Hook to prompt the user for confirmation before leaving the page. Useful when changes haven't been saved.",
   "main": "index.js",
   "repository": {
