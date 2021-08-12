@@ -1,11 +1,11 @@
 {
   "name": "@jacob-hooks/use-axios",
-  "version": "1.0.1",
+  "version": "1.0.19",
   "description": "React Hook to send HTTP request and get data from URL",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jacobkosmart/custom-hooks.git"
+    "url": "https://github.com/jacobkosmart/custom-hooks.git"
   },
   "keywords": [
     "react",
@@ -20,7 +20,7 @@
     "url": "https://github.com/jacobkosmart/custom-hooks/issues"
   },
   "homepage": "https://github.com/jacobkosmart/custom-hooks#readme",
-  "dependencies": {
+  "peerdependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   }
