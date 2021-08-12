@@ -1,4 +1,4 @@
-# jacob-hooks
+# jacob-hooks (Custom hooks)
 
 Collection of React Custom Hooks ready to install with yarn and npm
 
