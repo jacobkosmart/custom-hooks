@@ -1,6 +1,6 @@
 {
   "name": "@jacob-hooks/use-network",
-  "version": "1.0.2",
+  "version": "1.0.13",
   "description": "React Hook to listen when the user goes online or offline.",
   "main": "index.js",
   "repository": "https://github.com/jacobkosmart/custom-hooks.git",
