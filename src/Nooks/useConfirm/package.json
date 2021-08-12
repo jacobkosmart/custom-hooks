@@ -3,7 +3,10 @@
   "version": "1.0.13",
   "description": "React Hook to ask the user for a confirmation before executing a function.",
   "main": "index.js",
-  "repository": "https://github.com/jacobkosmart/custom-hooks.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jacobkosmart/custom-hooks.git"
+  },
   "keywords": [
     "react",
     "hooks",
