@@ -1,6 +1,6 @@
 {
   "name": "@jacob-hooks/use-confirm",
-  "version": "1.0.12",
+  "version": "1.0.13",
   "description": "React Hook to ask the user for a confirmation before executing a function.",
   "main": "index.js",
   "repository": "https://github.com/jacobkosmart/custom-hooks.git",
